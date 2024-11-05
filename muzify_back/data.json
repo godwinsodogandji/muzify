@@ -1,0 +1,189 @@
+{
+  "ALBUMS": [
+    {
+      "id": "1",
+      "ref": "Afrobeats",
+      "name": "Burna Boy",
+      "title": "Twice as Tall",
+      "description": "L'album explore des thèmes de la culture nigériane avec des collaborations internationales.",
+      "duration": 3600,
+      "url": "/src/assets/Burna-Boy.jpeg",
+      "like": "Much",
+      "tags": ["afrobeats", "nigerian", "world music"],
+      "status": "off",
+      "songsId": "1"
+    },
+    {
+      "id": "2",
+      "ref": "Afrobeats",
+      "name": "Wizkid",
+      "title": "Made in Lagos",
+      "description": "Un album qui célèbre les racines de Wizkid et son parcours musical.",
+      "duration": 3200,
+      "url": "/src/assets/Wizkid_at_Iyanya's_album_launch_concert,_2013_(cropped).jpg",
+      "tags": ["afrobeats", "nigerian", "world music"],
+      "like": "Much",
+      "status": "off",
+      "songsId": "2"
+    },
+    {
+      "id": "3",
+      "ref": "Hip Hop",
+      "name": "Nasty C",
+      "title": "Zulu Man with Some Power",
+      "description": "L'album présente un mélange de rap et d'influences africaines.",
+      "duration": 3600,
+      "url": "/src/assets/unnamed.png",
+      "tags": ["hip hop", "south africa", "rap"],
+      "like": "Much",
+      "status": "off",
+      "songsId": "3"
+    },
+    {
+      "id": "4",
+      "ref": "Afropop",
+      "name": "Yemi Alade",
+      "title": "Empress",
+      "description": "Un album qui met en avant la diversité musicale et les influences africaines.",
+      "duration": 3000,
+      "url": "/src/assets/Yemi-Alade-la-star-revele-pourquoi-son-34e-anniversaire-est-tres-special.jpg",
+      "like": "Rather",
+      "tags": ["afropop", "nigerian", "world music"],
+      "status": "off",
+      "songsId": "4"
+    },
+    {
+      "id": "5",
+      "ref": "R&B",
+      "name": "Tems",
+      "title": "For Broken Ears",
+      "description": "Un projet qui combine des éléments de R&B et d'Afrobeats.",
+      "duration": 2800,
+      "url": "/src/assets/GettyImages-1236829118-scaled-e1652472328269-1920x1080.jpg",
+      "tags": ["r&b", "afrobeats", "pop"],
+      "like": "Rather",
+      "status": "off",
+      "songsId": "5"
+    },
+    {
+      "id": "6",
+      "ref": "Highlife",
+      "name": "Flavour",
+      "title": "Flavour of Africa",
+      "description": "Un hommage aux sons traditionnels africains avec une touche moderne.",
+      "duration": 3200,
+      "url": "/src/assets/IMG_7084-519x540.jpeg",
+      "like": "Much",
+      "tags": ["highlife", "nigerian", "african"],
+      "status": "off",
+      "songsId": "6"
+    },
+    {
+      "id": "7",
+      "ref": "Afrobeats",
+      "name": "Davido",
+      "title": "A Better Time",
+      "description": "Cet album célèbre les bonnes choses de la vie avec des collaborations avec des artistes internationaux.",
+      "duration": 3600,
+      "url": "/src/assets/davido.jpg",
+      "like": "Much",
+      "tags": ["afrobeats", "nigerian", "pop"],
+      "status": "off",
+      "songsId": "7"
+    },
+    {
+      "id": "8",
+      "ref": "Pop",
+      "name": "Mr Eazi",
+      "title": "Life Is Eazi, Vol. 2",
+      "description": "Un mélange de sonorités africaines et de vibes internationales.",
+      "duration": 3000,
+      "url": "/src/assets/Mr-Eazi-2-e1637248848287.jpg",
+      "like": "Much",
+      "tags": ["pop", "afrobeats", "nigerian"],
+      "status": "off",
+      "songsId": "8"
+    },
+    {
+      "id": "9",
+      "ref": "Afrobeats",
+      "name": "Omah Lay",
+      "title": "Get Layd",
+      "description": "Un projet innovant qui mêle R&B et Afrobeats.",
+      "duration": 2400,
+      "url": "/src/assets/omah-lay.jpeg",
+      "like": "Much",
+      "tags": ["afrobeats", "nigerian", "r&b"],
+      "status": "off",
+      "songsId": "9"
+    },
+    {
+      "id": "10",
+      "ref": "Reggae",
+      "name": "Bunny Wailer",
+      "title": "Blackheart Man",
+      "description": "Un classique du reggae qui met en avant la culture rastafari.",
+      "duration": 3600,
+      "url": "/src/assets/bunny-wailer,-un-compagnon-de-bob-marley,-est-decede_image_1.jpg",
+      "like": "Much",
+      "tags": ["reggae", "jamaican", "classic"],
+      "status": "off",
+      "songsId": "10"
+    }
+  ],
+
+  "ALBUM_LISTS": [
+    {
+      "id": "1",
+      "songs": ["Level Up", "Alarm Clock", "Way Too Big", "Bebo", "Wonderful"]
+    },
+    {
+      "id": "2",
+      "songs": ["Reckless", "Ginger", "Longtime", "Blessed", "Smile"]
+    },
+    {
+      "id": "3",
+      "songs": ["King Shit", "Steve Biko", "Zulu Man", "Ababulali", "Feeling"]
+    },
+    {
+      "id": "4",
+      "songs": ["True Love", "Boyz", "Turn Up", "Lose My Mind", "Control"]
+    },
+    {
+      "id": "5",
+      "songs": ["Damages", "Ice T", "The Key", "Higher", "Free Mind"]
+    },
+    {
+      "id": "6",
+      "songs": ["Flavour", "Levels", "Doings", "Egwu Ndi Oma", "Omo T'emi"]
+    },
+    {
+      "id": "7",
+      "songs": ["FEM", "Jowo", "Something Fishy", "Holy Ground", "Heaven"]
+    },
+    {
+      "id": "8",
+      "songs": [
+        "Supernova",
+        "Kpalanga",
+        "Tony Montana",
+        "I No Go Give Up on You",
+        "Lento"
+      ]
+    },
+    {
+      "id": "9",
+      "songs": ["Damn", "Bad Influence", "Lo Lo", "You", "Can't Relate"]
+    },
+    {
+      "id": "10",
+      "songs": [
+        "Battering Down Sentence",
+        "Dream Land",
+        "Rasta Man",
+        "Oppressed Song",
+        "Armagideon (Armagedon)"
+      ]
+    }
+  ]
+}

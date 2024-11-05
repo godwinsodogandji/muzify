@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1730721517732,
+    "username": "John Doe",
+    "email": "john5@gmail.com",
+    "password": "$2b$10$kSuPImsb655r1d3.hi0V2OB.YfFwggjv3XnGR4WGID2o21bBtCQHu"
+  },
+  {
+    "id": 1730729271589,
+    "username": "John Doe",
+    "email": "john@gmail.com",
+    "password": "$2b$10$WSka7Vdrx3Yw.lWEFAi2C.fc2o1ypk8Wh33Q7mwcZNsyj7AyLDDhm"
+  },
+  {
+    "id": 1730736103739,
+    "username": "Aristide Orounkponde",
+    "email": "sdfsdfdsssfff@gmail.com",
+    "password": "$2b$10$WydhL7xSQj5a22q6R3Ao.etcI715adChvEepLbK4oovPKRYg/xWs."
+  }
+]
